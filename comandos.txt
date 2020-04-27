@@ -29,3 +29,6 @@ CREAR ENTORNO DE DESARROLLO LOCAL PARA VER EL PROYECTO EN TIEMPO REAL
 npm install --save-dev webpack-dev-server
 SE CREA UN COMANDO START EN EL PACKAGE-JSON y PARA LEVANTAR EL SERVIDOR SE EJECUTA EL COMANDO SIGUIENTE
 $ npm run start
+
+PREPROCESADOR PARA CSS Y SASS
+npm install mini-css-extract-plugin css-loader node-sass sass-loader --save-dev
